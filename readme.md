@@ -128,6 +128,21 @@ http://localhost:3000
 - **Authentication**: Firebase Authentication
 - **Styling**: Tailwind, Shadcn
 
+### Project Images
+<div style="display:grid,grid-cols:3">
+<img src="screenshots/img_11.png" width="300"/>
+<img src="screenshots/img_10.png" width="300"/>
+<img src="screenshots/img_12.png" width="300"/>
+<img src="screenshots/img_1.png" width="300"/>
+<img src="screenshots/img_2.png" width="300"/>
+<img src="screenshots/img_4.png" width="300"/>
+<img src="screenshots/img_3.png" width="300"/>
+<img src="screenshots/img_6.png" width="300"/>
+<img src="screenshots/img_7.png" width="300"/>
+<img src="screenshots/img_8.png" width="300"/>
+<img src="screenshots/img_9.png" width="300"/>
+</div>
+
 
 ### License
 This project is open-source and available under the MIT License.
